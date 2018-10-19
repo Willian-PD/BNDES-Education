@@ -1,2 +1,2 @@
 # BNDES-Education
-Criação uma página web visando maior transparência para o público sócio/educativo.
+Web app que visa mais transparencia dos dados do BNDES, sendo o mesmo voltado para o público sócio-educativo.
